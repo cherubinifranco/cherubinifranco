@@ -1,8 +1,8 @@
 # I’m Franco Cherubini
 
-Software developer from Argentina, currently studying **Artificial Intelligence Engineering at Universidad Nacional del Litoral (UNL)**.
+Software developer from Argentina, currently studying Artificial Intelligence Engineering at Universidad Nacional del Litoral (UNL).
 
-I like building things that solve actual problems — from internal tools and automation to web applications and APIs.
+I like building things that solve actual problems from internal tools and automation to web applications and APIs.
 
 ## What I work with
 
